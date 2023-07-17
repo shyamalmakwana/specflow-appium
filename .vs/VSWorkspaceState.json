@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bin",
+    "\\bin\\Release",
+    "\\Feature",
+    "\\Properties",
+    "\\Step Defination"
   ],
-  "SelectedNode": "\\SpecFlow Lambda Sample.sln",
+  "SelectedNode": "\\Feature\\TodoApp1.feature",
   "PreviewInSolutionExplorer": false
 }
